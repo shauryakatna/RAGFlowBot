@@ -1,5 +1,5 @@
 
-<!-- TOC --><a name="cognito-langgraph-rag"></a>
+
 # RAGFlowBot
 
 - Developed an advanced RAG workflow utilizing LangGraph to enhance question-answering accuracy, resulting in a significant reduction in Large Language Model (LLM) hallucinations. 
